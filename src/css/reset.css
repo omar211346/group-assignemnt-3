@@ -5,3 +5,16 @@
     list-style: none;
     text-decoration: none;
 }
+
+@font-face {
+    font-family: lato sans-serif;
+    src: url(../assets/fonts/Lato-Black.ttf);
+}
+@font-face {
+    font-family: lato sans-serif;
+    src: url(../assets/fonts/Lato-BlackItalic.ttf);
+}
+@font-face {
+    font-family: lato sans-serif;
+    src: url(../assets/fonts/Lato-Bold.ttf);
+}
