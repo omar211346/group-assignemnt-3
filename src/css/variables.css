@@ -1,0 +1,25 @@
+:root{
+
+    /* colors */
+
+    --primary-color: blue;
+   --secondary-color: orange;
+   --third-color: white; 
+
+   /* padding  */
+
+   --padding-small: 0.5rem;
+   --padding-base: 1rem;
+   --padding-medium: 1.5rem;
+   --padding-large: 2rem;
+   --padding-xl: 2.5rem;
+
+    /* margin */
+   --padding-small: 0.5rem;
+   --padding-base: 1rem;
+   --padding-medium: 1.5rem;
+   --padding-large: 2rem;
+   --padding-xl: 2.5rem;
+
+
+}
